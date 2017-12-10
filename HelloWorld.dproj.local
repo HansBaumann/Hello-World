@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2017.12.10 19:10:21.026,=D:\Users\hans\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>2017.12.10 19:15:01.009,D:\Delphi\DelphiXE10\Test\Hello World\Unit1.dfm=D:\Users\hans\Documents\Embarcadero\Studio\Projekte\Unit1.dfm</Transaction>
+    <Transaction>2017.12.10 19:15:01.009,D:\Delphi\DelphiXE10\Test\Hello World\Unit1.pas=D:\Users\hans\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>2017.12.10 19:15:05.631,D:\Delphi\DelphiXE10\Test\Hello World\HelloWorld.dproj=D:\Users\hans\Documents\Embarcadero\Studio\Projekte\Project1.dproj</Transaction>
+    <Transaction>2017.12.10 19:15:06.721,=D:\Delphi\DelphiXE10\Test\Hello World\ModelSupport_HelloWorld\default.txaPackage</Transaction>
+  </Transactions>
+</BorlandProject>
